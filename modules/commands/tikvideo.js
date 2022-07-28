@@ -4,7 +4,7 @@ module.exports.config = {
   hasPermssion: 0,
   credits: "Horizon",
   description: "lấy video tiktok no logo",
-  commandCategory: "Phương tiện",
+  commandCategory: "Tiện ích",
   usages: "tikvd [url]",
   cooldowns: 5,
 };
